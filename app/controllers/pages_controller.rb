@@ -14,6 +14,10 @@ class PagesController < ApplicationController
     render :contact
   end
 
+  def work
+    render :work
+  end
+
 
 
 
