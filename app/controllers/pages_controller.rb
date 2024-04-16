@@ -10,6 +10,11 @@ class PagesController < ApplicationController
     render :about
   end
 
+  def contact
+    render :contact
+  end
+
+
 
 
 
